@@ -1,0 +1,119 @@
+  
+  
+  /* 1st section  */
+.section-margin{
+    font-family: 'Roboto', sans-serif;
+    margin: 2% 10% 4% 10%;
+   
+}
+.left-border{
+border-left: 3px solid rgb(158, 151, 142);
+font-size: 50px;
+}
+.color{
+    color: orange;
+}
+.button-link{
+    color: white;
+    text-decoration: none;
+    padding: 9px 30px;
+    background-image: linear-gradient(yellow,tomato);
+    border-radius: 10px;
+}
+.felx-div{
+    display: flex;
+    padding: 0 0 0 10%;
+}
+.sajed-img{
+    width: 400px;
+}
+
+/* start section 2 */
+/* .section2-margin{
+    margin: 10px 5px 10px 5px ;
+} */
+.h1-center{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+.sec2-p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.div1-design{
+    font-family: 'Roboto', sans-serif;
+    background-color:skyblue ;
+    padding: 5px 5px 10px 10px;
+    border-radius: 10px;
+}
+
+.div2-design{
+    font-family: 'Roboto', sans-serif;
+   background-color:#FFDAB9 ;
+     padding: 5px 5px 10px 10px;
+    border-radius: 10px;
+}
+.div3-design{
+    background-color: #FFE4B5;
+    padding: 5px 5px 10px 10px;
+    border-radius: 10px;
+}
+.div1-margin{
+    margin-right: 10px;
+}
+.div2-margin{
+    margin-right: 10px;
+}
+.illustration{
+    width: 150px;
+    height: 150px;
+}
+
+   /* section 3 and 4 done  */
+.font{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+.p-font{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    padding-right: 20px;
+}
+.pic-size{
+ width: 350px;
+ height: 350px;
+ margin-right: 20px;
+}
+/* end of section 3 and 4 */
+/* start 5th section */
+
+li{
+    list-style-type: none;
+}
+.section5{ 
+    margin: 2% 10% 4% 15%;
+    display: flex;
+}
+.section5-a{
+    text-decoration: none;
+    color: black;
+}
+.div5{
+    margin: 0% 5% 0% 0%;
+}
+
+/* start 6th section */
+footer{
+    font-family: 'Roboto', sans-serif;
+    padding: 10px ;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.footer-span{
+    color: red;
+}
+
